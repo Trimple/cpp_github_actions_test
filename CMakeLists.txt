@@ -23,7 +23,6 @@ FetchContent_MakeAvailable(googletest)
 
 
 
-add_subdirectory(external)
 
 add_executable(template src/main.cpp)
 target_include_directories(template PUBLIC "src/")
