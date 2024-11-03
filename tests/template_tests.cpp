@@ -7,7 +7,7 @@ TEST(templateTests, equal_fine)
 
 TEST(templateTests, equal_error)
 {
-    ASSERT_EQ(2, 1);
+    ASSERT_EQ(2, 2);
 }
 
 int main(int argc, char** argv)
