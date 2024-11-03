@@ -1,0 +1,12 @@
+# will be extended later
+
+BasedOnStyle: LLVM
+IndentWidth: 4
+
+Language: Cpp
+ColumnLimit: 100
+
+BreakBeforeBraces: Custom
+BraceWrapping:
+    AfterControlStatement: Always
+    AfterFunction: true
